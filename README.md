@@ -1,5 +1,5 @@
 # Auto-prompt
-AI Auto Prompt
+[AI Auto Prompt] (https://o.n2book.com)
 
 ## ChatGPT Messages
 
@@ -14,7 +14,3 @@ AI Auto Prompt
 }
 
 ```
-
-## TEST
-
-[AI Auto Prompt](https://o.n2book.com)
